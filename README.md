@@ -15,6 +15,7 @@ duongle@gmail.com , 123456
 chi@gmail.com , 123456
 - Hoặc tạo tài khoản mới trong SignUp
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136497716-12ee16a3-0f17-4c3e-b1f4-4ad54035a586.png">
+
 ## - 2. Trang Chủ
 
 - Do tin bán xe lưu trong Realm Local nên khuyến khích người dùng sử dụng 2-3 tài khoản mỗi tài khoản tạo 1-2 tin đăng để có dữ liệu phân tích và theo dõi. Vào phần Đăng tin trong tabbar để tạo tin đăng mới 

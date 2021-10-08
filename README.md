@@ -54,5 +54,6 @@ chi@gmail.com , 123456
 
 ## - 7. Đánh giá người dùng
 
-- Truy cập bằng cách vào từ avatar của user khác phần chi tiết tin đăng để đánh giá 1-5 sao, dữ liệu sẽ được lưu trên FireBase
-- 
+- Truy cập bằng cách vào từ avatar của user khác phần chi tiết tin đăng để đánh giá 1-5 sao, dữ liệu sẽ được lưu trên FireBase và ko mất đi với mọi tài khoản
+
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136501019-d2626a71-97f0-42fe-ab0a-a3df0de2c425.png">

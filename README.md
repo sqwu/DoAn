@@ -44,6 +44,15 @@ chi@gmail.com , 123456
 
 ## - 6. Tài khoản
 
-- Hiện chi tiết tài khoản, có thể vào phần sửa chi tiết tài khoản để update tên, email...
+- Hiện chi tiết tài khoản, có thể vào phần sửa chi tiết tài khoản để update tên, email, mật khẩu...
+- Có thể chỉnh giao diện loại sáng tối (dark/light)
+- Đối vơí giao diện sáng, có thêm phần chỉnh màu nền, như đề cập mục 2/ Trang chủ
 
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136500486-f28370fa-d6aa-46e2-8f78-486c1bb9a8fc.png">
+
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136500645-da02e82d-bb2f-41bb-bf98-7870c24edc12.png">
+
+## - 7. Đánh giá người dùng
+
+- Truy cập bằng cách vào từ avatar của user khác phần chi tiết tin đăng để đánh giá 1-5 sao, dữ liệu sẽ được lưu trên FireBase
+- 

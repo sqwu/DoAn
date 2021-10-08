@@ -1,9 +1,11 @@
 
 # Hướng dẫn
-## Có 4 màn hình chính: Trang Chủ, Thông báo, Tài Khoản, Chi tiết xe
-## - 1. Trang Chủ
-- In case Users had account already -> input their information to Phonenumber and Password -> press login button to present the MainViewController
-- In case Users do not have account -> press register button to present the RegisterViewController for inputting their information
+- Project hướng đến 1 quy trình khép kín cho việc mua bán xe: Đăng tin, tìm kiếm, xem chi tiết tin đăng, chi tiết và đánh giá user, liên hệ + chat qua lại giữa các user (phần cuối này chưa hoàn thiện đủ)
+- Project sử dụng RealmSwift là local Storage lưu dữ liệu các tin đăng bán xe, giao diện và Firebase để lưu thông tin về tài khoản, đánh giá user
+## Có 5 màn hình chính: SignIn/SignUp, Trang Chủ, Thông báo, Tài Khoản, Chi tiết xe
+## - 1. SignIn/SignUp
+- 
+
 
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136497197-d8e30ea8-ca52-4f82-9593-e2b708fe768d.png">
 

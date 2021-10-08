@@ -1,7 +1,6 @@
 
 # Hướng dẫn
 - Đọc để hiểu kỹ tất cả các tính năng của ứng dụng
-# Hướng dẫn
 - Project hướng đến 1 quy trình khép kín cho việc mua bán xe: Đăng tin, tìm kiếm, xem chi tiết tin đăng, chi tiết và đánh giá user, liên hệ + chat qua lại giữa các user (phần cuối này chưa hoàn thiện đủ)
 - Project sử dụng RealmSwift là local Storage lưu dữ liệu các tin đăng bán xe, giao diện và Firebase để lưu thông tin về tài khoản, đánh giá user
 - Run Pod install trước khi chạy

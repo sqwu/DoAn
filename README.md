@@ -14,15 +14,14 @@ duongle@gmail.com , 123456
 chi@gmail.com , 123456
 - Hoặc tạo tài khoản mới trong SignUp
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136497716-12ee16a3-0f17-4c3e-b1f4-4ad54035a586.png">
-
 ## - 2. Trang Chủ
 - Do tin bán xe lưu trong Realm Local nên khuyến khích người dùng sử dụng 2-3 tài khoản mỗi tài khoản tạo 1-2 tin đăng để có dữ liệu phân tích và theo dõi. Vào phần Đăng tin trong tabbar để tạo tin đăng mới 
 - Phần khoảng trắng trong hình sẽ hiện các tin đăng, sau khi tạo tin có thể tìm kiếm trên search bar hoặc filter theo ý cá nhân, lưu ý phần filter chỉ làm cho 4 trường là hãng xe, loại xe, năm sản xuất và khoảng giá
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136497197-d8e30ea8-ca52-4f82-9593-e2b708fe768d.png">
-- Trang chủ khi vào chỉnh hình nền từ phần sửa thông tin tài khoản sẽ có thêm màn hình chỉnh hình nền tuỳ ý cho user và sẽ lưu và Realm
+- Trang chủ khi vào chỉnh hình nền từ phần sửa thông tin tài khoản sẽ có thêm màn hình chỉnh hình nền tuỳ ý cho user và sẽ lưu và Realm. Hình nền chỉnh dạng màu Gradient nên có màu đầu, cuối, điểm đầu cuối, alpha
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136498485-6e2417cf-472a-4694-9811-ef2688c90d29.png">
-## - 3. 
-- Users information were saved from LoginViewController and RegisterViewController will be updated and shown in these following field: Name, Date of birth, Adress, Phonenumber, email
-- In case User want to go back to Login, press Back Button to present LoginViewController
-<img width="324" alt="main" src="https://user-images.githubusercontent.com/84574760/122742394-18f94b00-d2b0-11eb-9f0d-ebf028f51463.png">
+## - 3. Thông báo
+- Khi tạo thành công tin đăng mới sẽ có thông báo hiện lên bằng 1 ô chữ màu đỏ tròn dưới tabbar, số hiện trên ô chữ ứng với số tin đăng thành công, tin đăng thành công hiện trên tableview và có chấm tròn màu xanh bên phải thể hiện thông báo chưa đc đọc, khi tap và sẽ hiển thị tin đăng và chấm tròn biến mất, thể hiện tin đã được đọc
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136498988-f5b5ab7d-8b86-4179-b363-16040abe7336.png">
+## - 4. Chi tiết tin đăng
 

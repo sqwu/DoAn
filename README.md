@@ -1,5 +1,7 @@
 
 # Hướng dẫn
+- Đọc để hiểu kỹ tất cả các tính năng của ứng dụng
+# Hướng dẫn
 - Project hướng đến 1 quy trình khép kín cho việc mua bán xe: Đăng tin, tìm kiếm, xem chi tiết tin đăng, chi tiết và đánh giá user, liên hệ + chat qua lại giữa các user (phần cuối này chưa hoàn thiện đủ)
 - Project sử dụng RealmSwift là local Storage lưu dữ liệu các tin đăng bán xe, giao diện và Firebase để lưu thông tin về tài khoản, đánh giá user
 - Run Pod install trước khi chạy
@@ -8,11 +10,7 @@
 
 - Sigin và signup phải đủ 6 ký tự, email đúng quy tắc
 - Có thể sử dụng các tài khoản đã tạo
-hoa@gmail.com , 123456
-dung@gmail.com , 123456
-hoang@yahoo.com , 123456
-duongle@gmail.com , 123456
-chi@gmail.com , 123456
+hoa@gmail.com : 123456   .   dung@gmail.com : 123456  .    hoang@yahoo.com : 123456   .   duongle@gmail.com : 123456    .   chi@gmail.com : 123456
 - Hoặc tạo tài khoản mới trong SignUp
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136497716-12ee16a3-0f17-4c3e-b1f4-4ad54035a586.png">
 

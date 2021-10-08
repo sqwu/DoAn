@@ -24,4 +24,8 @@ chi@gmail.com , 123456
 - Khi tạo thành công tin đăng mới sẽ có thông báo hiện lên bằng 1 ô chữ màu đỏ tròn dưới tabbar, số hiện trên ô chữ ứng với số tin đăng thành công, tin đăng thành công hiện trên tableview và có chấm tròn màu xanh bên phải thể hiện thông báo chưa đc đọc, khi tap và sẽ hiển thị tin đăng và chấm tròn biến mất, thể hiện tin đã được đọc
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136498988-f5b5ab7d-8b86-4179-b363-16040abe7336.png">
 ## - 4. Chi tiết tin đăng
+- Tất cả chi tiết tin đăng hiện tại đây, có thể click vào ảnh để hiện full slide ảnh
+- Có thể gọi điện cho ngươi bán băng nút gọi ở dưới, phần nhắn tin chưa được làm đầy đủ
+- Để hiện chi tiết người bán có thể vào avatar user tại đây có thể đánh giá user bằng sao
 
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136499362-8e573dde-c6b0-43fb-9032-01c2ce63ba19.png">

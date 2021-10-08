@@ -3,7 +3,7 @@
 - Project hướng đến 1 quy trình khép kín cho việc mua bán xe: Đăng tin, tìm kiếm, xem chi tiết tin đăng, chi tiết và đánh giá user, liên hệ + chat qua lại giữa các user (phần cuối này chưa hoàn thiện đủ)
 - Project sử dụng RealmSwift là local Storage lưu dữ liệu các tin đăng bán xe, giao diện và Firebase để lưu thông tin về tài khoản, đánh giá user
 - Run Pod install trước khi chạy
-## Có 5 màn hình chính: SignIn/SignUp, Trang Chủ, Thông báo, Tài Khoản, Chi tiết xe
+## Có 6 màn hình chính: SignIn/SignUp, Trang Chủ, Bán xe, Thông báo, Tài Khoản, Chi tiết xe
 ## - 1. SignIn/SignUp
 
 - Sigin và signup phải đủ 6 ký tự, email đúng quy tắc
@@ -24,17 +24,26 @@ chi@gmail.com , 123456
 - Trang chủ khi vào chỉnh hình nền từ phần sửa thông tin tài khoản sẽ có thêm màn hình chỉnh hình nền tuỳ ý cho user và sẽ lưu và Realm. Hình nền chỉnh dạng màu Gradient nên có màu đầu, cuối, điểm đầu cuối, alpha
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136498485-6e2417cf-472a-4694-9811-ef2688c90d29.png">
 
-## - 3. Thông báo
+## - 3. Đăng tin bán xe
+- Chọn các thông tin để đăng bán, các trường có dấu * ko đc bỏ trống, nếu bỏ trống sẽ báo lỗi hiện màu đỏ, chọn các hãng xe hay gặp để đăng vì một số hãng chưa được up dữ liệu đầy đủ
+
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136499855-563fde2a-b594-46dc-aeab-8d3a2704c94d.png">
+
+## - 4. Thông báo
 
 - Khi tạo thành công tin đăng mới sẽ có thông báo hiện lên bằng 1 ô chữ màu đỏ tròn dưới tabbar, số hiện trên ô chữ ứng với số tin đăng thành công, tin đăng thành công hiện trên tableview và có chấm tròn màu xanh bên phải thể hiện thông báo chưa đc đọc, khi tap và sẽ hiển thị tin đăng và chấm tròn biến mất, thể hiện tin đã được đọc
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136498988-f5b5ab7d-8b86-4179-b363-16040abe7336.png">
 
-## - 4. Chi tiết tin đăng
+## - 5. Chi tiết tin đăng
 
 - Tất cả chi tiết tin đăng hiện tại đây, có thể click vào ảnh để hiện full slide ảnh
 - Có thể gọi điện cho ngươi bán băng nút gọi ở dưới, phần nhắn tin chưa được làm đầy đủ
 - Để hiện chi tiết người bán có thể vào avatar user tại đây có thể đánh giá user bằng sao (nếu là tin đăng của mình sẽ ko tap vào avatar đc)
 
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136499362-8e573dde-c6b0-43fb-9032-01c2ce63ba19.png">
+
+## - 6. Tài khoản
+
+- Tất cả chi tiết tin đăng hiện tại đây, có thể click vào ảnh để hiện full slide ảnh
 
 

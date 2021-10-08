@@ -19,8 +19,9 @@ chi@gmail.com , 123456
 - Do tin bán xe lưu trong Realm Local nên khuyến khích người dùng sử dụng 2-3 tài khoản mỗi tài khoản tạo 1-2 tin đăng để có dữ liệu phân tích và theo dõi. Vào phần Đăng tin trong tabbar để tạo tin đăng mới 
 - Phần khoảng trắng trong hình sẽ hiện các tin đăng, sau khi tạo tin có thể tìm kiếm trên search bar hoặc filter theo ý cá nhân, lưu ý phần filter chỉ làm cho 4 trường là hãng xe, loại xe, năm sản xuất và khoảng giá
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136497197-d8e30ea8-ca52-4f82-9593-e2b708fe768d.png">
-
-## - 3. The MainViewController
+- Trang chủ khi vào chỉnh hình nền từ phần sửa thông tin tài khoản sẽ có thêm màn hình chỉnh hình nền tuỳ ý cho user và sẽ lưu và Realm
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136498485-6e2417cf-472a-4694-9811-ef2688c90d29.png">
+## - 3. 
 - Users information were saved from LoginViewController and RegisterViewController will be updated and shown in these following field: Name, Date of birth, Adress, Phonenumber, email
 - In case User want to go back to Login, press Back Button to present LoginViewController
 <img width="324" alt="main" src="https://user-images.githubusercontent.com/84574760/122742394-18f94b00-d2b0-11eb-9f0d-ebf028f51463.png">

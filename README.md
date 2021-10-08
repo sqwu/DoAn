@@ -21,12 +21,12 @@ chi@gmail.com , 123456
 - Do tin bán xe lưu trong Realm Local nên khuyến khích người dùng sử dụng 2-3 tài khoản mỗi tài khoản tạo 1-2 tin đăng để có dữ liệu phân tích và theo dõi. Vào phần Đăng tin trong tabbar để tạo tin đăng mới 
 - Phần khoảng trắng trong hình sẽ hiện các tin đăng, sau khi tạo tin có thể tìm kiếm trên search bar hoặc filter theo ý cá nhân, lưu ý phần filter chỉ làm cho 4 trường là hãng xe, loại xe, năm sản xuất và khoảng giá
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136497197-d8e30ea8-ca52-4f82-9593-e2b708fe768d.png">
-- Trang chủ khi vào chỉnh hình nền từ phần sửa thông tin tài khoản sẽ có thêm màn hình chỉnh hình nền tuỳ ý cho user và sẽ lưu và Realm. Hình nền chỉnh dạng màu Gradient nên có màu đầu, cuối, điểm đầu cuối, alpha
+- Trang chủ khi vào chỉnh hình nền từ phần sửa thông tin tài khoản sẽ có thêm màn hình chỉnh hình nền tuỳ ý cho user và sẽ lưu vào Realm. Hình nền chỉnh dạng màu Gradient nên có màu đầu, cuối, điểm đầu cuối, alpha
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136498485-6e2417cf-472a-4694-9811-ef2688c90d29.png">
 
 ## - 3. Đăng tin bán xe
 - Chọn các thông tin để đăng bán, các trường có dấu * ko đc bỏ trống, nếu bỏ trống sẽ báo lỗi hiện màu đỏ, chọn các hãng xe hay gặp để đăng vì một số hãng chưa được up dữ liệu đầy đủ
-
+- Phân up ảnh chỉ làm demo, do lưu ảnh trong realm khó khăn nên ảnh ko phải là ảnh lấy từ phần upload trong photos library
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136499855-563fde2a-b594-46dc-aeab-8d3a2704c94d.png">
 
 ## - 4. Thông báo

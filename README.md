@@ -44,6 +44,6 @@ chi@gmail.com , 123456
 
 ## - 6. Tài khoản
 
-- Tất cả chi tiết tin đăng hiện tại đây, có thể click vào ảnh để hiện full slide ảnh
+- Hiện chi tiết tài khoản, có thể vào phần sửa chi tiết tài khoản để update tên, email...
 
-
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/84574760/136500486-f28370fa-d6aa-46e2-8f78-486c1bb9a8fc.png">
